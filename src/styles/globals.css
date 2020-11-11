@@ -1,0 +1,12 @@
+.leaflet-control-zoom{
+    display: none;
+}
+.leaflet-control-attribution {
+    display: none;
+}
+.recharts-wrapper{
+    width: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
