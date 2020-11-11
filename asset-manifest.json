@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cardash/static/css/main.75548aec.chunk.css",
+    "main.js": "/cardash/static/js/main.80a16ae8.chunk.js",
+    "main.js.map": "/cardash/static/js/main.80a16ae8.chunk.js.map",
+    "runtime-main.js": "/cardash/static/js/runtime-main.0a161515.js",
+    "runtime-main.js.map": "/cardash/static/js/runtime-main.0a161515.js.map",
+    "static/js/2.541499da.chunk.js": "/cardash/static/js/2.541499da.chunk.js",
+    "static/js/2.541499da.chunk.js.map": "/cardash/static/js/2.541499da.chunk.js.map",
+    "index.html": "/cardash/index.html",
+    "static/css/main.75548aec.chunk.css.map": "/cardash/static/css/main.75548aec.chunk.css.map",
+    "static/js/2.541499da.chunk.js.LICENSE.txt": "/cardash/static/js/2.541499da.chunk.js.LICENSE.txt",
+    "static/media/horn.be0c710a.mp3": "/cardash/static/media/horn.be0c710a.mp3",
+    "static/media/lazy.8d8f36c9.mp3": "/cardash/static/media/lazy.8d8f36c9.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a161515.js",
+    "static/js/2.541499da.chunk.js",
+    "static/css/main.75548aec.chunk.css",
+    "static/js/main.80a16ae8.chunk.js"
+  ]
+}
